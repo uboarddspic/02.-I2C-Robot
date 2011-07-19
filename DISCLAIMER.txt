@@ -1,0 +1,5 @@
+All resources provided at uboard.eu are "as is" with no express or implied warranty for accuracy or accessibility.
+
+Staronic has done its utmost to ensure that schematics, PCBs, partlist and code are accurate. However, errors may occur. Staronic accepts no responsibility or liability for any incorrect material.
+
+Use this site at your own risk.
